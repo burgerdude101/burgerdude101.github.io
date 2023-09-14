@@ -1,0 +1,14 @@
+baseURL: 
+languageCode: en-us
+title: My Portfolio
+theme: PaperMod
+
+params:
+  ShowBreadCrumbs: true
+
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavLinks: true
